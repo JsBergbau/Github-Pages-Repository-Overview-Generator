@@ -4,19 +4,18 @@ This little Pythonscript generates an Overview of your repositories with descrpt
 
 Result looks like
 
-```
-BindToInterface
+
+## BindToInterface
 
 URL: https://github.com/JsBergbau/BindToInterface
 
-Description: With this program you can bind applications to a specific interface. This is very useful if you have multiple (internet) connections and want your program to use a specific one.
+Description: With this program you can bind applications to a specific network interface. This is very useful if you have multiple (internet) connections and want your program to use a specific one.
 
 Created: 2021-05-11T19:15:34Z
 
 Last update: 2021-06-05T18:36:14Z
-```
 
 
 ## Configuration
 
-Change the first line to your github username. Then run the script and pipe output to README.md
+Change the first line to your github username. Then run the script and redirect output to README.md
